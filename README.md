@@ -1,2 +1,13 @@
 # alura_angular_rxjs_1
-Curso
+
+# Run API
+```
+npm i
+npm start
+```
+
+# Run UI
+```
+npm i
+npm run serve
+```
